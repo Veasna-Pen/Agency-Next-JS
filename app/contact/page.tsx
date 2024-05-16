@@ -5,11 +5,11 @@ const ContactUs = () => {
     <div className="bg-white my-20 px-10">
       <div className="mx-auto max-w-7xl flex flex-col items-center justify-center text-center">
         <h1 className="text-4xl md:text-5xl font-bold tracking-tight text-gray-900">
-          Let's Talk
+          Let&apos;s Talk
         </h1>
         <p className="mt-3 text-lg text-gray-600">
-          Feature request? Suggestion? or maybe you'd like to be our critic!
-          Here's a form just for that.
+          Feature request? Suggestion? or maybe you&apos;d like to be our critic!
+          Here&apos;s a form just for that.
         </p>
       </div>
       <div className="mx-auto mt-16 max-w-xl sm:mt-20">

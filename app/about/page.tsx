@@ -21,7 +21,7 @@ const AboutPage = () => {
       <p className="text-justify text-lg text-gray-600 px-4 font_sans py-3">
         Our dedicated team of experts is committed to delivering tailored
         strategies and innovative solutions that drive growth and maximize
-        online presence. Whether it's optimizing your website for search
+        online presence. Whether it&apos;s optimizing your website for search
         engines, crafting engaging social media campaigns, developing
         user-friendly websites, creating intuitive mobile applications, or
         executing targeted PPC campaigns, Growthly is your trusted partner for
